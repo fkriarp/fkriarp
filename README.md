@@ -1,4 +1,4 @@
-Software Developer passionate about building robust web applications and scalable backend systems.
+Fullstack Developer who enjoys building web applications from frontend to backend. Always learning and aiming to write clean, maintainable code.
 
 > *"First, solve the problem. Then, write the code."*
 
